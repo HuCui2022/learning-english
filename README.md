@@ -5,7 +5,7 @@
 2. The license plate information is **checked against** existing records shared among 13 federal agencies, the AP reported.  
 checked against 与...对比  
 3. Thompson said in a statement that U.S. officials "must ensure we are not expanding the use of biometrics **at the expense of the privacy of the American public.**"  以sth的代价  
-**Words in This Story  
+### Words in This Story  
 
 hacker – n. a person who secretly gets control of a computer system to get information or cause damage
 
