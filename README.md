@@ -35,3 +35,5 @@ at the expense of – phrase. in a way that harms someone or something
 4. he was **against war and wanted to talk.
 5. the message will **be conveyed to** him to make decision.  
 6. any **attack agaainst to** our country will have **regional** and **international** `consequences`.  
+#### Words in This Story
+**proportionate** - adj. having a size, number, or amount that is directly related to or appropriate for something
