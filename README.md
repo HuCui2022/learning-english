@@ -32,7 +32,7 @@ at the expense of – phrase. in a way that harms someone or something
 2. He said the planned attack, which could have killed many people, was not "**proportionate**" to Iran's downing of an unpiloted drone.
 成比例。
 3. The U.S. military operation was **called off** around 7:30 Thursday night Washington time.  
-4. he was **against war and wanted to talk.
+4. he was **against war and wanted to talk**.
 5. the message will **be conveyed to** him to make decision.  
 6. any **attack agaainst to** our country will have **regional** and **international** `consequences`.  
 #### Words in This Story
