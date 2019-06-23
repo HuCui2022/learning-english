@@ -24,3 +24,6 @@ breach – n. an act of breaking a rule, law, custom or practice
 biometrics – n. involving the application of statistical analysis to biological data
 
 at the expense of – phrase. in a way that harms someone or something
+
+###  **2019.6.23**
+### [Trump Cancels Strikes on Iran at Last Minute](http://www.51voa.com/VOA_Special_English/trump-calls-off-iranian-strikes-at-last-minute-82297.html)  
