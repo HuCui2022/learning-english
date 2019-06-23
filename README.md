@@ -1,6 +1,7 @@
 # learning-english
 ## some wards or some sentence  
 ###   **2019.6.22**
+### [US Confirms Traveler Photos Stolen in Cyberattack](http://www.51voa.com/VOA_Special_English/us-confirms-traveler-photos-stolen-in-cyberattack-82240.html)  
 1. take something very seriously  
 2. The license plate information is **checked against** existing records shared among 13 federal agencies, the AP reported.  
 checked against 与...对比  
