@@ -40,10 +40,20 @@ at the expense of – phrase. in a way that harms someone or something
 
 ### **2019.6.24**
 ### [Study: Dogs Evolved to Use Eyes to Connect with Humans](http://www.51voa.com/VOA_Special_English/study-dogs-evolved-to-use-eyes-to-connect-with-humans--82310.html)  
-1. Just like humans, the eyes can be one of the most **appealing** things about dogs  
-2. Dogs **broke off** from wolves after being **domesticated** about 33,000 years ago.  
-3. They found the **facial structure** of both animals was mostly very similar.   
+1. Just like humans, the eyes can be one of the most **appealing**（吸引人的） things about dogs  
+2. Dogs **broke off**（分化） from wolves after being **domesticated** （驯服）about 33,000 years ago.  
+3. They found the **facial structure** （面部结构）of both animals was mostly very similar.   
 4. These small muscles **permit dogs to** "**intensely**" raise their inner eyebrow, the study found.  
 5. "You don't **typically** see such muscle differences in species that are closely related," she told the Associated Press.  
-6. The evidence is <b>compelling</b> that dogs developed a muscle to raise the inner eyebrow after they were domesticated from wolves
+6. The evidence is <b>compelling</b> that dogs developed a muscle to raise the inner eyebrow after they were domesticated from wolves.  
+7. And when ***exposed to a human*** for two minutes, dogs raised their inner eyebrows more and at higher intensities than wolves.  
+8. He called the findings ***"profound"*** for showing that these muscles likely developed to help in their interactions with people.  
+9. This means further study will be required and should include other ancient dog ***breeds***.  （种类）
+### Words in This Story  
+**domesticate** – v. to bring animals or plants under human control so that humans may use them as pets, for food or power  
+**typically** – adj. usually  
+**compelling** - adj. causeing great interest or attention.  
+**expose** - v. make something that was hidden able to be seen.  
+**profound**- adj. have many meanings.  ()
+
 
