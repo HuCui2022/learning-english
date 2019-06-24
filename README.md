@@ -36,4 +36,9 @@ at the expense of – phrase. in a way that harms someone or something
 5. the message will **be conveyed to** him to make decision.  
 6. any **attack agaainst to** our country will have **regional** and **international** `consequences`.  
 #### Words in This Story
-**proportionate** - adj. having a size, number, or amount that is directly related to or appropriate for something
+**proportionate** - adj. having a size, number, or amount that is directly related to or appropriate for something  
+
+### **2019.6.24**
+### [Study: Dogs Evolved to Use Eyes to Connect with Humans](http://www.51voa.com/VOA_Special_English/study-dogs-evolved-to-use-eyes-to-connect-with-humans--82310.html)  
+1. Just like humans, the eyes can be one of the most **appealing** things about dogs  
+2. 
