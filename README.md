@@ -41,4 +41,9 @@ at the expense of – phrase. in a way that harms someone or something
 ### **2019.6.24**
 ### [Study: Dogs Evolved to Use Eyes to Connect with Humans](http://www.51voa.com/VOA_Special_English/study-dogs-evolved-to-use-eyes-to-connect-with-humans--82310.html)  
 1. Just like humans, the eyes can be one of the most **appealing** things about dogs  
-2. 
+2. Dogs **broke off** from wolves after being **domesticated** about 33,000 years ago.  
+3. They found the **facial structure** of both animals was mostly very similar.   
+4. These small muscles **permit dogs to** "**intensely**" raise their inner eyebrow, the study found.  
+5. "You don't **typically** see such muscle differences in species that are closely related," she told the Associated Press.  
+6. The evidence is <b>compelling</b> that dogs developed a muscle to raise the inner eyebrow after they were domesticated from wolves
+
