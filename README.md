@@ -55,5 +55,19 @@ at the expense of – phrase. in a way that harms someone or something
 **compelling** - adj. causeing great interest or attention.  
 **expose** - v. make something that was hidden able to be seen.  
 **profound**- adj. have many meanings.  ()
+### **2019.6.25**
+### [US Donors Support Rebuilding of Notre Dame Cathedral](http://www.51voa.com/VOA_Special_English/us-donors-support-rebuilding-of-notre-dame-cathedral-82308.html)  
+1. The fire on April 15 destroyed the roof, or top, and caused the famous ***spire*** to fall .  
+2. French President Emmanuel Macron promised to  rebuild the ***cathedral .***  
+3. They want to know what exactly their money is being spent on and if they agree to it before they ***hand it over*** .  
+4. ***Leran about*** the ***reconstruction*** panls and ***argue over contract***.   
+5.  The French ***Parliament*** has been debating changes to laws and labor rules to ***speed up the restoration*** and make it possible to pay the workers clearing the ***wreckage***.  
+6. While they debate, ***charity group*** are giving money to help pay workers' wages.  
+7. But critics said that time limit is ***too ambitious***.  
+### Words in This Story  
+**spire** – n. a tall, narrow, pointed structure on the top of a building  
+**charity** – n. the act of giving money, food, or other kinds of help to people who are poor or sick  
+**architecture** – n. the art or science of designing and creating buildings  
+
 
 
