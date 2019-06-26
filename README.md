@@ -68,6 +68,15 @@ at the expense of – phrase. in a way that harms someone or something
 **spire** – n. a tall, narrow, pointed structure on the top of a building  
 **charity** – n. the act of giving money, food, or other kinds of help to people who are poor or sick  
 **architecture** – n. the art or science of designing and creating buildings  
-
-
+### **2019.6.26**  
+### [SpaceX Falcon Heavy Successfully Launches with 24 Satellites](http://www.51voa.com/VOA_Special_English/spacex-falcon-heavy-successfully-launches-with--satellites-82322.html)  
+1. The Falcon Heavy is considered the world's most powerful ***operating*** rocket .  
+2. Tuesday's mission was the company's  "***toughest*** rocket launch ever."  
+3. The ***satelltes*** also needed to be placed in three diffrent ***orbits***.  
+4. SpaceX uses ***reusable*** rockets to reduce the cost of space travel for its customers  .   
+5. Several minutes after ***liftoff***, the Falcon Heavy's two side ***boosters*** returned safely to Earth.
+6. The Falcon Heavy carried an ***atomic*** clock built by NASA, a ***solar sail project*** and even human ashes.    
+### Words in This Story  
+**booster** – n. engine on a spacecraft that gives extra power for the first part of a flight  
+**platform** – n. a raised surface built to hold something  
 
