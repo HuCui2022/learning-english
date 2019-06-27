@@ -79,4 +79,19 @@ at the expense of – phrase. in a way that harms someone or something
 ### Words in This Story  
 **booster** – n. engine on a spacecraft that gives extra power for the first part of a flight  
 **platform** – n. a raised surface built to hold something  
-
+### **2019.6.27**  
+### [Old Electric Car Batteries Used to Power Football Stadiums](http://www.51voa.com/VOA_Special_English/old-electric-car-batteries-used-to-power-football-stadiums-82329.html)  
+1. JATO ***dynamic*** researches cars and other vehicles.   
+2. The company reported electric car sales ***rose by*** 74 percent in 2018.  
+3. More than ***a million and a quarter*** electric cars were sold. ***Put another way***, the company said electric car sales represented about 1.5 percent of total vehicle sales around the world.  
+4. Electric car batteries become less effective ***over time*** and need to be replaced.  
+5. Currently, most major auto manufacturers ***guarantee good battery performance*** for only about eight years.  
+6. ***aging batteries *** – which it calls "second-life batteries"  
+7. Eaton has already equipped a major ***stadium*** in the Netherlands with such a system.  
+8. It also holds large ***concerts*** an other major events.  
+9. The system is designed to provide ***back-up power*** to reduce the need for ***diesel generators***, which produce pollution.   
+### Words in This Story
+**battery**– n. device that produces and can store electricity  
+**stadium** – n. a large, open area with seats around it where sports games and other events take place  
+**significant** – adj. important or noticeable  
+**sustainable** – adj. able to be used without being completely used up or destroyed   
