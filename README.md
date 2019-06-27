@@ -86,7 +86,7 @@ at the expense of – phrase. in a way that harms someone or something
 3. More than ***a million and a quarter*** electric cars were sold. ***Put another way***, the company said electric car sales represented about 1.5 percent of total vehicle sales around the world.  
 4. Electric car batteries become less effective ***over time*** and need to be replaced.  
 5. Currently, most major auto manufacturers ***guarantee good battery performance*** for only about eight years.  
-6. ***aging batteries *** – which it calls "second-life batteries"  
+6. ***aging batteries*** – which it calls "second-life batteries"  
 7. Eaton has already equipped a major ***stadium*** in the Netherlands with such a system.  
 8. It also holds large ***concerts*** an other major events.  
 9. The system is designed to provide ***back-up power*** to reduce the need for ***diesel generators***, which produce pollution.   
