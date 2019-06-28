@@ -95,3 +95,8 @@ at the expense of – phrase. in a way that harms someone or something
 **stadium** – n. a large, open area with seats around it where sports games and other events take place  
 **significant** – adj. important or noticeable  
 **sustainable** – adj. able to be used without being completely used up or destroyed   
+### **2019.6.28**  
+1. She has long been considered a model of ***feminism.***  
+2. He is a big boy... with a friendly face an ***sad gaze*** .  
+3. Frida's voice has been a great ***enigma***(someone or something that is difficult to understand or explain).  
+
