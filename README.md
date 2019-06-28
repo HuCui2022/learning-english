@@ -98,7 +98,7 @@ at the expense of – phrase. in a way that harms someone or something
 ### **2019.6.28**  
 1. She has long been considered a model of ***feminism.***  
 2. He is a big boy... with a friendly face an ***sad gaze*** .  
-3. Frida's voice has been a great <details><summary>***enigma***</summary>
+3. Frida's voice has been a great ***enigma***<details><summary></summary>
 someone or something that is difficult to understand or explain.  
-</details>
+</details>.
 
