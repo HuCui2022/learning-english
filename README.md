@@ -100,7 +100,7 @@ at the expense of – phrase. in a way that harms someone or something
 2. He is a big boy... with a friendly face an ***sad gaze*** .  
 3. Frida's voice has been a great ***enigma***.<details><summary></summary>someone or something that is difficult to understand or explain. </details>.  
 
-### **2019.6.28** 
+### **2019.6.29** 
 ### College Music Program Finds Long-Lost Funk Recordings  
 1. The man said the recordings, also called ***tapes***, all had the same name on them: Sigma Sound ***Studio***.  
 2. That special sound made with ***strings***, ***horns***, and other ***instruments***.  
