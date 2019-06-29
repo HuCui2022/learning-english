@@ -99,10 +99,22 @@ at the expense of – phrase. in a way that harms someone or something
 1. She has long been considered a model of ***feminism.***  
 2. He is a big boy... with a friendly face an ***sad gaze*** .  
 3. Frida's voice has been a great ***enigma***.<details><summary></summary>someone or something that is difficult to understand or explain. </details>.  
-hello[^1]
 
-
-[^1]: hi
+### **2019.6.28** 
+### College Music Program Finds Long-Lost Funk Recordings  
+1. The man said the recordings, also called ***tapes***, all had the same name on them: Sigma Sound ***Studio***.  
+2. That special sound made with ***strings***, ***horns***, and other ***instruments***.  
+3. the studio released ***hits*** like "Disco ***Inferno***" by The Trammps and "When Will I See You Again" by The Three Degrees.  
+4. As Seay and students ***went through*** the collection, they worked to make computer recordings of it. 
+5. Seay ***came up just that*** in 2011, when he pulled a tape named "Nat Turner Rebellion" off the shelf.  
+6. The song was called ‘***Tribute to a Slave***' and it ***blew me away***(surprise).  
+7. Critics from the New York Times praised the album as ***a greeting across eras***.  
+8. "But," he said, "they should have our ***grateful thanks*** for what they do in ***ensuring this music can be preserved*** and enjoyed for ***generations*** to come."  
+### Words in This Story
+**era** – n. a period of time that is associated with a particular quality, event, person, etc.  
+**conscious** – adj. caring about something specified  
+**grateful** – adj. feeling or showing thanks to someone for some helpful act  
+**preserve** – v. to keep (something) safe from harm or loss  
  
 
 
