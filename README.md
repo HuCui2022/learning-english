@@ -116,5 +116,20 @@ at the expense of – phrase. in a way that harms someone or something
 **grateful** – adj. feeling or showing thanks to someone for some helpful act  
 **preserve** – v. to keep (something) safe from harm or loss  
  
+### **2019.6.30**   
+### [New Technology Helps Rescuers Find Missing People](http://www.51voa.com/VOA_Special_English/new-technology-helps-rescuers-find-missing-people-82351.html)  
+1. D'Alessandro flew ***all the way*** from the state of Maryland to join the rescue efforts.   
+2. The volunteers searched through ***dense plant life***, crossed rivers and faced other environmental difficulties.  
+3. ***In time***, the technology ***lead the volunteers to*** Eller.  
+4. The system showed when Hawaii searchers had covered a three-kilometer ***radius*** around Eller's car.   
+5. Organizers started ***dropping markers*** on volunteers' maps to give them targets.   
+6. This ***pushed*** volunteers to cover more ground and made the search more ***accurate***.  
+7. It's about using GPS maps and ***utilizing*** GPS to make sure you're ***hitting your assignment***.   
+### Words in This Story  
+**app(s)** – n. a computer program that performs a particular task  
+**priority** – n. the condition of being more important than something or someone else and therefore coming or being dealt with first  
+**radius** – n. an area that goes outward in all directions from a particular place  
+**accurate** – adj. free from mistakes or errors  
+**utilizing** – v. using something for a given purpose  
 
 
