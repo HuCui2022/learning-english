@@ -132,4 +132,10 @@ at the expense of – phrase. in a way that harms someone or something
 **accurate** – adj. free from mistakes or errors  
 **utilizing** – v. using something for a given purpose  
 
+### **2019.7.1**   
+### [Life Begins at 70: Older South Koreans Find New Jobs, Abilities](http://www.51voa.com/VOA_Special_English/life-begins-at--older-south-koreans-find-new-jobs-abilities-82354.html)  
+1. "Being a model is really fun," he says. "Senior? It's just a ***label***."  
+2. Now she is training to appear on a ***catwalk*** to show clothes.  
+3. Learning modeling feels like ***reviving my youth***.   
+4. Sales of the tool have ***tripled***, and ***exports*** have sharply increased.  
 
