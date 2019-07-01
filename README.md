@@ -138,4 +138,11 @@ at the expense of – phrase. in a way that harms someone or something
 2. Now she is training to appear on a ***catwalk*** to show clothes.  
 3. Learning modeling feels like ***reviving my youth***.   
 4. Sales of the tool have ***tripled***, and ***exports*** have sharply increased.  
+5. A clearer understanding of ***methane*** levels over time "could help scientists ***etermine*** where they're located on Mars," NASA said.  
+### [Fifty Years Later, Moon Landing Still Making Money](http://www.51voa.com/VOA_Special_English/fifty-years-later-moon-landing-still-making-money-82355.html)  
+6. A limited number of Omega's Speedmaster watch – the same ***brand*** that Buzz Aldrin wore on the moon – will be sold.  
+7. They will be available for ***purchase*** for an ***out-of-this world*** cost: $34,600.  
+8. A less costly ***stainless steel*** one sells for $9,650.  
+9. A more ***down-to-earth*** product is Budweiser's Discovery Reserve.  
+10. The American beer company is bringing back a ***recipe*** from the 1960s.  
 
