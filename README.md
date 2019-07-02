@@ -146,3 +146,12 @@ at the expense of – phrase. in a way that harms someone or something
 9. A more ***down-to-earth*** product is Budweiser's Discovery Reserve.  
 10. The American beer company is bringing back a ***recipe*** from the 1960s.  
 
+### **2019.7.2** 
+### [Climate Fight Shows Political Divide in Oregon](http://www.51voa.com/VOA_Special_English/climate-fight-shows-political-divide-in-oregon--82361.html)  
+1. On the other side are lawmakers from ***conservative*** and ***economically depressed*** rural areas.  
+2. Recently, 11 members of Oregon's state senate led a nine-day ***walkout*** to deny the number of lawmakers needed to vote on the climate bill.  
+3. Experts say the senate ***protest*** was ***unavoidable*** given the state's political divisions.  
+4. ***Logging*** was historically one of Oregon's most ***profitable*** industries.  
+5. Rural voters worried the climate ***legislation*** would cause the end of ***logging*** and ***trucking***.  
+6. They also said they had been left out of policy ***negotiations***, a claim the ***governor*** denies.  
+7. Some worry the state's climate divide could ***incite*** an anti-government movement in Oregon.  
