@@ -155,3 +155,22 @@ at the expense of – phrase. in a way that harms someone or something
 5. Rural voters worried the climate ***legislation*** would cause the end of ***logging*** and ***trucking***.  
 6. They also said they had been left out of policy ***negotiations***, a claim the ***governor*** denies.  
 7. Some worry the state's climate divide could ***incite*** an anti-government movement in Oregon.  
+
+### **2019.7.3**   
+### [Scientists Say Cigar-Shaped Object Not Alien Spaceship](http://www.51voa.com/VOA_Special_English/scientists-say-cigar-shaped-object-not-alien-spaceship-82369.html)  
+1. We find no ***compelling*** evidence to favor an alien explanation.  
+2. They ***raced to collect*** as much data as possible as it passed through our solar system.  
+3. The object has a ***reddish color*** and is estimated to be about 800 meters long.  
+4. Our key finding is that ‘Oumuamua's properties are consistent with a natural origin, and an alien explanation is ***unwarranted***.  
+5. The alien spacecraft ***hypothesis*** is a fun idea.  
+6. Knight said it is not easy to describe Oumuamua as a ***comet*** or ***asteroid***.(Knight said it is not easy to describe Oumuamua as a comet or asteroid.)    
+7. Oumuamua was ***ejected*** from a distant star system.   
+8. It has a strange ***spinning*** movement, much like a bottle laying on the ground, ***spinning*** on its side.   
+### Words in This Story  
+**alien** – n. from somewhere other than the planet Earth  
+**compel** – v. to force someone to do something  
+**favor** – v. to support  
+**unwarranted** – adj. unreasonable  
+**hypothesis** – n. an idea or theory that is not proven but that leads to further study or discussion  
+**eject** – v. to push something out  
+**spin** – v. to turn or cause someone or something to turn around repeatedly  
