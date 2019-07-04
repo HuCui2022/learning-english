@@ -174,3 +174,19 @@ at the expense of – phrase. in a way that harms someone or something
 **hypothesis** – n. an idea or theory that is not proven but that leads to further study or discussion  
 **eject** – v. to push something out  
 **spin** – v. to turn or cause someone or something to turn around repeatedly  
+
+### **2019.7.4**   
+### [Google to Launch Balloon Internet System in Rural Kenya](http://www.51voa.com/VOA_Special_English/google-to-launch-balloon-internet-system-in-rural-kenya-82374.html)  
+1. Large balloons carry ***solar-powered*** equipment high in the sky to send high-speed internet signals to the ground.  
+2. Kenyan transportation officials said they expect to give final ***approval*** to the project this month.  
+3. This helps the balloons avoid weather problems and ***wildlife***.  
+4. Loon balloons move through the skies by ***wind currents*** that carry them up and down during the flight path.  
+5. These signals are then ***fed back to*** earth in a similar way to how ***satellites*** work.  
+6. When the life of the balloon ends, a ***parachute*** self-deploys to guide it back down to the ground.  
+7. The sky-based system already showed success in ***temporary*** service launches in Peru and Puerto Rico during ***natural disasters***.  
+8. Several other telecommunications companies are ***close to*** ***signing deals with*** the company. He did not provide details.   
+9. He said Loon first needs to ***prove itself*** in Kenya.  
+10. If the results are positive, we would then be ***potentially*** interested.   
+### Words in This Story  
+**battery** – n.device that produces and can store electricity  
+**potentially** – adv.the possibility of happening in the future  
