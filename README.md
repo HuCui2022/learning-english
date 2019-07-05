@@ -190,3 +190,20 @@ at the expense of – phrase. in a way that harms someone or something
 ### Words in This Story  
 **battery** – n.device that produces and can store electricity  
 **potentially** – adv.the possibility of happening in the future  
+### **2019.7.5**   
+### [Sea Ice around Antarctica Shows Sharp Decrease](http://www.51voa.com/VOA_Special_English/sea-ice-around-antarctica-shows-sharp-decrease-82385.html)  
+1. Scientists say the amount of sea ice around ***antarctica*** has decreased from a record high to a record low in only a few years.  
+2. Ice floating in the waters around the Antarctic ***continent*** started increasing in 1979, about the time satellite ***observations*** first started.  
+3. He told The Associated Press the quickly decreasing ice levels are a "***white-knuckle ride***."  
+4. But the fact that a change this big can happen in such a short time should be viewed as an ***indication*** that the Earth has the potential for ***significant*** and ***rapid change***.  
+5. In the ***polar*** areas, sea ice levels increase during the winter and ***shrink*** in the summer.  
+6. In the north, the ***Arctica*** is a floating collection of ice on an ocean surrounded by land.  
+7. ***Antarctica***, in the south, is just the opposite, with land surrounded by an ocean.   
+8. They also considered natural ***ongoing changes*** in the climate.  
+### Words in This Story
+**white-knuckle ride** – n. an experience marked by, causing, or experiencing intense worry or nervousness  
+**indication** – n. something, such as a sign or signal, that points out or shows something  
+**significant** – adj. large enough to be noticed or have an effect  
+**polar** – adj. of or relating to the North or South Pole or the region around it  
+**incredible** – adj. difficult or impossible to believe  
+
