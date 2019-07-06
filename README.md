@@ -207,3 +207,12 @@ at the expense of – phrase. in a way that harms someone or something
 **polar** – adj. of or relating to the North or South Pole or the region around it  
 **incredible** – adj. difficult or impossible to believe  
 
+### **2019.7.6**   
+### [Californians Clean Up After Strongest Earthquake in 20 Years](http://www.51voa.com/VOA_Special_English/californians-clean-up-after-strongest-earthquake-in--years-82389.html)  
+1. The strongest earthquake to hit California in 20 years caused minor injuries and damage in a town near the quake's ***epicenter***.  
+2. Scientists say it measured 6.4 in ***magnitude***.   
+3. Officials said more than 80 ***aftershocks*** shook the town and nearby areas by Friday.  
+4. Two houses ***caught fire from*** broken gas lines.  
+### Words in This Story  
+**epicenter** – n. the part of the earth's surface directly above the true center of an earthquake  
+**shelf** – n. flat surface used to hold things that is usually fixed to a wall  
