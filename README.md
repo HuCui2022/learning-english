@@ -216,3 +216,24 @@ at the expense of – phrase. in a way that harms someone or something
 ### Words in This Story  
 **epicenter** – n. the part of the earth's surface directly above the true center of an earthquake  
 **shelf** – n. flat surface used to hold things that is usually fixed to a wall  
+
+### **2019.7.7**   
+### [Life on Titan? New NASA Mission Will Find Out](http://www.51voa.com/VOA_Special_English/life-on-titan-new-nasa-mission-will-find-out-82397.html)  
+1. Titan, a moon around the planet ***Saturn***, has the right materials for life, NASA research has shown.  
+2. The US space agency's newly announced ***Dragonfly*** mission will explore the icy space object to learn if it ever did hold life.  
+3. There are lakes and seas across the northern half, and sometimes rain hits the ***sandy*** surface.   
+4. Titan is so cold that water is rock-hard ice, and ***oily methane*** falls from the sky and into the seas.   
+5. One of the things I think is so exciting about Titan is how it can be ***alien*** and ***familiar*** at the same time.  
+6. Titan's surface is hidden below its ***atmosphere*** which is four times as ***dense*** as Earth's. But its lower level ***gravity***  makes Titan a good place for a flying explorer.  
+7. At first, it will target an area near the moon's ***equator***, or middle.   
+8. When it lands, it will study ***samples*** of the surface, take photographs and look for "titanquakes"— like earthquakes.  
+9. The ***crater*** was formed when a large object hit the area.   
+10. We have this chance to explore a world that we know has all the ***ingredients*** for life, but how far did it get towards life?  
+### Words in This Story  
+**mission** – n. a task or job that someone is given to do  
+**clue** – n. something that helps a person find something, understand something, or solve a mystery or puzzle  
+**beach** – n. an area covered with sand or small rocks that is next to an ocean or lake  
+**alien** – n. from somewhere other than the planet Earth  
+**familiar** – adj. frequently seen, heard, or experienced  
+**propeller** – n. a device with two or more blades that turn quickly and cause a ship or aircraft to move  
+**crust** – n. a hard layer on the surface of something  
