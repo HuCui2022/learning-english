@@ -237,3 +237,13 @@ at the expense of – phrase. in a way that harms someone or something
 **familiar** – adj. frequently seen, heard, or experienced  
 **propeller** – n. a device with two or more blades that turn quickly and cause a ship or aircraft to move  
 **crust** – n. a hard layer on the surface of something  
+
+### **2019.7.9**    
+### [Iran Says It Is Breaking Nuclear Enrichment Limits](http://www.51voa.com/VOA_Special_English/iran-says-it-is-breaking-enrichment-limits-in-nuclear-deal-82410.html)  
+1. The agency reported on Monday that Iran began enriching ***uranium*** to 4.5 percent.  
+2. The international agreement was meant to ***restrain*** the country's nuclear activities.  
+3. However, it is far below the ***purity*** needed to make a nuclear weapon.  
+4. In recent weeks, Iran said several times that it would ***surpass*** limits set by the Joint Comprehensive Plan of Action.   
+5. He also announced that Iran would restart ***construction*** at the Arak heavy water reactor.  
+6. The official also suggested that Iran might add to its current number of ***centrifuge*** -- the devices used to increase the purity of uranium.  
+7. Earlier this month, an Iranian oil tanker carrying over 2 million ***barrels*** of oil was ***seized*** in waters near the British port of Gibraltar.  
