@@ -247,3 +247,12 @@ at the expense of – phrase. in a way that harms someone or something
 5. He also announced that Iran would restart ***construction*** at the Arak heavy water reactor.  
 6. The official also suggested that Iran might add to its current number of ***centrifuge*** -- the devices used to increase the purity of uranium.  
 7. Earlier this month, an Iranian oil tanker carrying over 2 million ***barrels*** of oil was ***seized*** in waters near the British port of Gibraltar.  
+
+### **2019.7.10**    
+### [California to Develop Earthquake Early Warning System](http://www.51voa.com/VOA_Special_English/california-to-develop-earthquake-early-warning-system-82417.html)  
+1. Officials say it also would ***automatically halt*** trains and open fire station doors moments before a major quake strikes.  
+2. He said that the state has already put in place 70 percent of 1,115 ***sensors*** needed for a statewide system.  
+3. I think the whole state's on notice right now about the opportunity that's in front of us.   
+4. It relies on more than 4,000 sensors and is based on the same ***laws of physics*** that California is using to build its system.  
+5. As in Japan, the California system is designed to ***detect*** the fast-moving ***seismic*** P-waves that are produced by earthquakes.   
+6. Southern California's Metrolink ***commuter*** rail system ***halted*** service after Friday's 7.1 earthquake in Ridgecrest.  
