@@ -256,3 +256,14 @@ at the expense of – phrase. in a way that harms someone or something
 4. It relies on more than 4,000 sensors and is based on the same ***laws of physics*** that California is using to build its system.  
 5. As in Japan, the California system is designed to ***detect*** the fast-moving ***seismic*** P-waves that are produced by earthquakes.   
 6. Southern California's Metrolink ***commuter*** rail system ***halted*** service after Friday's 7.1 earthquake in Ridgecrest.  
+
+### **2019.7.11**    
+### [Report: Top Tech in 2019 Includes Bioplastics, Social Robots](http://www.51voa.com/VOA_Special_English/report-top-tech-in--includes-bioplastics-and-social-robots-82424.html)  
+1. Bioplastics are made from natural substances that make them ***biodegradable***.  
+2. This makes bioplastics very different from most plastics in use today, which come from ***petroleum*** products.  
+3. The widespread use of ***petrochemical*** plastics across the world is flooding ***landfills*** and causing severe damage to the world's oceans.   
+4. One material being developed is ***cellulose***, a very strong material found in plant cell walls.   
+5. Next on the WEF's list are "social robots." The organization says these machines are designed to ***assist*** and ***engage with*** humans while attempting to make an emotional connection.  
+6.  For many years it has not been possible to produce extremely ***tiny*** ***lenses***.  
+7. The experts believe these lenses could permit the ***shrinking*** of microscopes and other widely used laboratory tools.  
+8. They could also be used to improve the performance of cameras, ***virtual reality*** equipment and industrial sensors.  
