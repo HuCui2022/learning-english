@@ -267,3 +267,10 @@ at the expense of – phrase. in a way that harms someone or something
 6.  For many years it has not been possible to produce extremely ***tiny*** ***lenses***.  
 7. The experts believe these lenses could permit the ***shrinking*** of microscopes and other widely used laboratory tools.  
 8. They could also be used to improve the performance of cameras, ***virtual reality*** equipment and industrial sensors.  
+
+### **2019.7.12** 
+### [Can Robot Dogs Help People with Alzheimer’s?](http://www.51voa.com/VOA_Special_English/can-robot-dogs-help-people-with-alzheimer-s--82432.html)  
+1. Could a robot dog help people with ***Alzheimer***'s disease and other forms of ***dementia***?  
+2. It didn't just have to look real and feel ***realistic*** but it had to behave ***realistically*** as well.  
+3. The robot has 16 motors to control its movements and has sensors that cause it to respond to voice commands and ***detect*** how people are touching it.  
+4. Tombot plans to have its first ***commercial*** sales of its robot dogs in 2020.  
