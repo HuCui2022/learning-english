@@ -274,3 +274,9 @@ at the expense of – phrase. in a way that harms someone or something
 2. It didn't just have to look real and feel ***realistic*** but it had to behave ***realistically*** as well.  
 3. The robot has 16 motors to control its movements and has sensors that cause it to respond to voice commands and ***detect*** how people are touching it.  
 4. Tombot plans to have its first ***commercial*** sales of its robot dogs in 2020.  
+
+### **2019.7.15**  
+### [How to Fight Climate Change? Plant a Trillion Trees](http://www.51voa.com/VOA_Special_English/how-to-fight-climate-change-plant-a-trillion-trees-82451.html)  
+1. The place that has the best possibility for removing the most carbon is the ***tropics***— the area close to the equator.   
+2. there were other more effective ways to fight climate change ***besides cutting emissions***.  
+3. But, he called the report "a good news story" because planting trees would also help stop the loss of ***biodiversity***.  
