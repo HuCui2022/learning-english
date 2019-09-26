@@ -280,3 +280,14 @@ at the expense of – phrase. in a way that harms someone or something
 1. The place that has the best possibility for removing the most carbon is the ***tropics***— the area close to the equator.   
 2. there were other more effective ways to fight climate change ***besides cutting emissions***.  
 3. But, he called the report "a good news story" because planting trees would also help stop the loss of ***biodiversity***.  
+
+### **2019.9。26**  
+### US Universities Report Drop in Students from China
+1.  catastrophically cata- 倒 的意思 stroph- 转    灾难地  
+2.  property proper-本身的  
+3.  Brad Farnsworth is vice president for international global engagement at the American Council on Education.  
+4.  espionage espi 看 nage 黑  间谍活动
+5.  animosity  anim- 动物 -ity 状态  名词：敌视  
+
+2. 
+
