@@ -289,5 +289,18 @@ at the expense of – phrase. in a way that harms someone or something
 4.  espionage espi 看 nage 黑  间谍活动
 5.  animosity  anim- 动物 -ity 状态  名词：敌视  
 
-2. 
+### **2019.9.27**   
+### [Health Workers Aim to Save Lives of Mothers, Babies with Smartphone Data](https://www.51voa.com/VOA_Special_English/health-workers-aim-to-save-lives-of-mothers-babies-with-smartphone-data-82954.html)  
+1. ***counsel*** counsel  [coun-=con- 一起 + sel 召集 → 你们一起来的目的是为了劝告你们 →]  
+2. ***counselor***  [ coun- 一起 + sel 召集 + -or (n.) 表示人（随焦点人物一起出访的人员]
+  n.顾问，律师，法律顾问  
+3. ***consular***  [con- 共同，一起，全部 + sel 召集 + -ar (a.) 形容词后缀，表示“…的”→形容有召集全部人员开会本领的→]
+  adj.领事的  
+4.   The goal is to prevent the ***premature*** deaths of 6 million women and children by 2030.  
+pre-【词根含义】：前,先   matur- Latin: ripe; to ripen; timely   
+5.  The project will provide tools such as ***real-time*** risk maps to help health workers reach mothers and children.  
+
+
+
+
 
