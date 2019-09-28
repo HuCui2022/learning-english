@@ -300,7 +300,20 @@ at the expense of – phrase. in a way that harms someone or something
 pre-【词根含义】：前,先   matur- Latin: ripe; to ripen; timely   
 5.  The project will provide tools such as ***real-time*** risk maps to help health workers reach mothers and children.  
 
-
+### **2019.9.28**   
+### [U.S. Administration Proposes Historically Low Refugee Limit](https://www.51voa.com/VOA_Special_English/u-s-administration-proposes-historically-low-refugee-limit-82963.html)  
+1. It will come in what U.S. officials are calling "**presidential determination**."
+de-  Latin:complete
+term-, termin-  Latin: end, last, final, boundary  
+2. At the time, Trump noted ***concerns*** about national security.  
+3. The president also approved an ***executive*** order that will require state and local governments to "consent" to accept refugees for resettlement.  
+4. In addition to the new limit and new powers for state and local officials, the State Department is creating a new ***classification*** for refugees.  
+5. For the 2020 fiscal year, the total number would include up to 5,000 refugees ***persecuted*** because of their religious beliefs.
+ persecute（坏事一直跟着per （=through,throughout) + secut(=follow)） (per始终+secut跟随,追+e→从头跟到尾→跟踪→迫害)
+  vt. 迫害；纠缠；为难
+  persecution n.迫害；纠缠
+  persecutor n.迫害者
+  I was persecuted for months by an IRS representative who said i owed more taxes. 几个月以来，我一直被一位美国国内收暑职员所纠缠，他说我欠缴更多税金。  
 
 
 
