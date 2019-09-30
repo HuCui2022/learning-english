@@ -335,25 +335,25 @@ as- 【词根含义】：来,临近,加强意义
 词根词缀：seri-, ser-
 【来源及含义】Latin: serere, a string, a thread; a row, succession, sequence; to join together, to connect, to combine
 
-【同源单词】assert  
+【同源单词】assert    
 5. aggrandize
-词根词缀：grand-【来源及含义】Latin: large, great
+词根词缀：grand-【来源及含义】Latin: large, great    
 6.  associate
 词根：-soci-
 【词根含义】：联合
 前缀：as-
-【词根含义】：来,临近,加强意义
+【词根含义】：来,临近,加强意义   
 7.predominate
 词根词缀：dom-, domo-, domat-, domato-
 【来源及含义】Greek > Latin: house, home ["master, lord" of the house]
 词根词缀：pre-, prae-
-【来源及含义】Latin: before 
+【来源及含义】Latin: before   
 8.  indigenous
 evident
 词根：-vid-, -vis-
 【词根含义】：看见
 前缀：e-, ex-
-【词根含义】：出,向外;向上  
+【词根含义】：出,向外;向上   
 9.  indigenous
 词根词缀：genus, genesis-, -gen, -gene, -genesis, -genetic, -genic, -geny, -genous
 【来源及含义】Latin: birth
@@ -366,4 +366,7 @@ evident
 11. regime
 词根：-reg-, -regn-
 【词根含义】：统治,规则  
-
+12. 
+ The lanternflies leave their clear, sticky and sugary waste on homes, swimming pools and other structures.   
+ 13. This is causing concern in those states as well as at the U.S. Department of Agriculture, which is involved in containment and suppression efforts.   
+ 14.  
