@@ -316,4 +316,24 @@ term-, termin-  Latin: end, last, final, boundary
   I was persecuted for months by an IRS representative who said i owed more taxes. 几个月以来，我一直被一位美国国内收暑职员所纠缠，他说我欠缴更多税金。  
 
 
+### **2019.9.29**   
+1.  ***assign   assignment***   
+sign-  mark
+as- 【词根含义】：来,临近,加强意义  
+2.  ***comprehension***
+词根：-prehend-, -prehens-, -pris-
+前缀：com-
+【词根含义】：共同,一起;加强意义  
+3.  ***retention  ***  
+词根：-tain-, -ten-, -tin-
+【词根含义】：握,持有
+前缀：re-
+【词根含义】：再,重复;回,向后;相反,反对;离开  
+4.  assertion
+前缀：as-
+【词根含义】：来,临近,加强意义
+词根词缀：seri-, ser-
+【来源及含义】Latin: serere, a string, a thread; a row, succession, sequence; to join together, to connect, to combine
 
+【同源单词】assert  
+5.  
