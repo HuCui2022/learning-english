@@ -369,4 +369,7 @@ evident
 12. 
  The lanternflies leave their clear, sticky and sugary waste on homes, swimming pools and other structures.   
  13. This is causing concern in those states as well as at the U.S. Department of Agriculture, which is involved in containment and suppression efforts.   
- 14.  
+
+
+### **2019.10.1**   
+1.   conclusive
