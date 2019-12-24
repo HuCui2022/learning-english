@@ -360,7 +360,7 @@ evident
 词根词缀：indigen-
 【来源及含义】Latin: belonging to a country; born in a country 阴道  regime
 
-
+https://github.com/yuuwill?tab=repositories
 10.  in the sense that
 从某种意义上说  
 11. regime
